@@ -12,6 +12,10 @@ Ich aktualisiere gerne den Paketmanager, nachdem ich das venv zum ersten Mal ein
 Nachdem der neue Paketmanager installiert ist, können Sie damit beginnen, einige Abhängigkeiten zu installieren.
 
 - Tensorflow - `pip install tensorflow`
+- Scikit learn - `pip install scikit-learn`
+- ttkbootstrap - `pip install ttkbootstrap`
+
+Alles in einem: `pip install tensorflow scikit-learn ttkbootstrap`
 
 # Hinter den Kulissen
 
